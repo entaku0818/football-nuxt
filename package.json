@@ -14,5 +14,7 @@
     "nuxt": "^2.0.0",
     "element-ui": "^2.4.11"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.3.2"
+  }
 }
